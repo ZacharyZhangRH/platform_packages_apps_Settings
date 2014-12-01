@@ -19,4 +19,9 @@
     <string name="changelog_aosp_title">Changelog</string>
     <string name="changelog_aosp_error">Unable to load changelog</string>
 
+    <!-- About phone screen, processor info label  [CHAR LIMIT=40] -->
+    <string name="processor_info">Processor</string>
+    <!-- RAM: Memory Info -->
+    <string name="mem_info">RAM</string>
+
 </resources>
