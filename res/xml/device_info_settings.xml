@@ -41,6 +41,12 @@
                     android:targetClass="com.android.settings.Settings$StatusActivity" />
         </PreferenceScreen>
 
+        <!-- Changelog -->
+        <PreferenceScreen
+            android:key="changelog"
+            android:title="@string/changelog_aosp_title"
+            android:fragment="com.android.settings.aosp.Changelog" />
+
         <!-- Manual -->
         <PreferenceScreen
                 android:key="manual"
